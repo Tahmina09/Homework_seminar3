@@ -30,26 +30,3 @@ def fibonacci(n: int):
 
 data = list(fibonacci(k))
 print_iterator(data)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
